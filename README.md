@@ -4,6 +4,8 @@ A responsive React and TypeScript marketing prototype for a workflow-automation 
 
 > Portfolio note: this is a product and interaction-design prototype. It is not a deployed service and should not be read as making current operational or performance claims.
 
+![ProcessRx.ai workflow-automation prototype](docs/processrx-home.png)
+
 ## Portfolio highlights
 
 - Multi-page React application with reusable layouts and components
